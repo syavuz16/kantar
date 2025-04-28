@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZMBIS_KNT_DAT065</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <DOMNAME>CHAR30</DOMNAME>
+    <HEADLEN>08</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>08</SCRLEN2>
+    <SCRLEN3>08</SCRLEN3>
+    <DDTEXT>Mühür No</DDTEXT>
+    <REPTEXT>Mühür No</REPTEXT>
+    <SCRTEXT_S>Mühür No</SCRTEXT_S>
+    <SCRTEXT_M>Mühür No</SCRTEXT_M>
+    <SCRTEXT_L>Mühür No</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Seal No</DDTEXT>
+     <REPTEXT>Seal No</REPTEXT>
+     <SCRTEXT_S>Seal No</SCRTEXT_S>
+     <SCRTEXT_M>Seal No</SCRTEXT_M>
+     <SCRTEXT_L>Seal No</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

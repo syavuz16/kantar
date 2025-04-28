@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZMBIS_KNT_DAT012</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <DOMNAME>CHAR40</DOMNAME>
+    <HEADLEN>40</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>İşlem tipi metni</DDTEXT>
+    <REPTEXT>İşlem tipi metni</REPTEXT>
+    <SCRTEXT_S>İşlem metn</SCRTEXT_S>
+    <SCRTEXT_M>İşlem tipi metni</SCRTEXT_M>
+    <SCRTEXT_L>İşlem tipi metni</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Process Type Text</DDTEXT>
+     <REPTEXT>Process Type Text</REPTEXT>
+     <SCRTEXT_S>Proces.Tex</SCRTEXT_S>
+     <SCRTEXT_M>Process Type Text</SCRTEXT_M>
+     <SCRTEXT_L>Process Type Text</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

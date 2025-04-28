@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZMBIS_KNT_DAT045</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <DOMNAME>CFX_BI_T_BOOL</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Manüel Giriş Evet: &apos;X&apos;  Hayır:&apos; &apos;</DDTEXT>
+    <REPTEXT>Manüel Giriş Göstergesi</REPTEXT>
+    <SCRTEXT_S>M G Gös</SCRTEXT_S>
+    <SCRTEXT_M>Manüel Giriş Gös.</SCRTEXT_M>
+    <SCRTEXT_L>Manüel Giriş Göstergesi</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>E</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DDTEXT>Manual Entry Yes: &apos;X&apos; No:&apos; &apos;</DDTEXT>
+     <REPTEXT>Manual Entry Indicator</REPTEXT>
+     <SCRTEXT_S>Mnl.Ent.In</SCRTEXT_S>
+     <SCRTEXT_M>Manual Entry Indicat</SCRTEXT_M>
+     <SCRTEXT_L>Manual Entry Indicator</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
